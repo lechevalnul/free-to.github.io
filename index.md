@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <head>
 <title>DARK DOWNLOAD</title>
   <link rel="shortcut icon" href="https://psyquoquackpack.github.io/favicon.ico">
@@ -108,8 +107,8 @@
 <h1>BD</h1>
 <b>Vous trouver pas votre film ou vous avez un probleme, contacter le DEV du site a cette adresse: lechevalnul@gmail.com</b>
 <b>Les jeux (PC seulement), animer, BD ect...Arrivee bientôt si vous avez des suggestion contacter nous toujours a la même boite mail :lechevalnul@gmail.com</b>
-<br></br>
+<br>
 <b>Nombre de visiteurs: </b>
-<img src="http://www.mon-compteur.fr/html_c01genv2-226337-1" border="0" /></a>
+<img src="http://www.mon-compteur.fr/html_c01genv2-226337-1" border="0" />
 </body>
-</html>
+
