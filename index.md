@@ -1,18 +1,11 @@
 <head>
 <title>DARK DOWNLOAD</title>
-  <link rel="shortcut icon" href="https://psyquoquackpack.github.io/favicon.ico">
+<link rel="shortcut icon" href="https://psyquoquackpack.github.io/favicon.ico">
 </head>
 <body>
 <h1>BIENVENUE SUR LE SITE DE FILMS ET DE SERIE CONSTRUIT PAR LA DARKED</h1>
-  <b>SERIES</b>
-<b><div style="font-weight:bold;color:#ff0000">How To Sell Drugs Online (Fast) VOSTFR 6 Episodes | Saison 1</div></b>
-<b><a rel="external nofollow" target="_blank" href="https://1fichier.com/?8ldt04qd86491zgerfl9&af=2579981">Episode 1</a></b><br>
-<b><a rel="external nofollow" target="_blank" href="https://1fichier.com/?yn3niwlavadoxyxq9eds&af=2579981">Episode 2</a></b><br>
-<b><a rel="external nofollow" target="_blank" href="https://1fichier.com/?kegdtx9ee09xt3ybo2jf&af=2579981">Episode 3</a></b><br>
-<b><a rel="external nofollow" target="_blank" href="https://1fichier.com/?3dv4cighukw6k9ibcinj&af=2579981">Episode 4</a></b><br>
-<b><a rel="external nofollow" target="_blank" href="https://1fichier.com/?v73v8b8iu43dnvrb6zwp&af=2579981">Episode 5</a></b><br>
-<b><a rel="external nofollow" target="_blank" href="https://1fichier.com/?d2hh76ht3b3ce8qdged6&af=2579981">Episode 6</a></b><br>
-<br/>
+<b>SERIES</b>
+<b><a rel="external nofollow" target="_blank" href="https://free-to.github.io/sell">How To Sell Drugs Online (Fast) VOSTFR</a></b><br>
 <b><a rel="external nofollow" target="_blank" href="https://free-to.github.io/mr_robot">Mr. Robot VF</a></b><br>
 <b><a rel="external nofollow" target="_blank" href="https://free-to.github.io/not_okay">I Am Not Okay With This VF</a></b><br>
 <h1>FILMS</h1>
