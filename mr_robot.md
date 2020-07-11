@@ -1,6 +1,5 @@
-<!DOCTYPE html>
 <head>
-<title></title>
+<title>MR.ROBOT</title>
 </head>
 <body>
 <h1>MR.ROBOT VF</h1>
@@ -57,4 +56,3 @@
 <b><a rel="external nofollow" target="_blank" href="https://1fichier.com/?adiuvu61ox0brttp2c8d&af=3098520">Episode 12</a></b><br>
 <br/>
 </body>
-</html>
