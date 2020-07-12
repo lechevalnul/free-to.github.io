@@ -8,7 +8,7 @@
 <b>SERIES</b>
 <br><b><a rel="external nofollow" target="_blank" href="https://free-to.github.io/sell">How To Sell Drugs Online (Fast) VOSTFR</a></b><br>
   <br>
-<b><a rel="external nofollow" target="_blank" href="https://free-to.github.io/mr_robot">Mr. Robot VF</a></b><br>
+<b><a rel="external nofollow" target="_blank" href="free-to.github.io/series/mr_robot/choice.md">Mr. Robot</a></b><br>
 <br>
 <b><a rel="external nofollow" target="_blank" href="https://free-to.github.io/not_okay">I Am Not Okay With This VF</a></b><br>
 <h1>FILMS</h1>
