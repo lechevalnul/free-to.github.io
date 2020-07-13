@@ -37,6 +37,8 @@
 <b><a rel="external nofollow" target="_blank" href="https://1fichier.com/?efk72kyhve3zjcqw04bu&af=3098520">Télécharger</a></b><br>
 <br/>
 <h1>JEUX</h1>
+  <b><div style="font-weight:bold;color:#ff0000">Tropico 6 Lobbyistico PC | Français</div></b>
+<b><a rel="external nofollow" target="_blank" href=" https://1fichier.com/?jg74vg6myot3h0omv0am&af=105612 ">Télécharger</a></b><br>
 <b><div style="font-weight:bold;color:#ff0000">Golf with your friends PC | Français
 </div></b>
 <b><a rel="external nofollow" target="_blank" href=" https://1fichier.com/?ibztncouci9d2bi1sll5&af=105612 ">Télécharger</a></b><br>
