@@ -3,7 +3,7 @@
 <link rel="shortcut icon" href="https://psyquoquackpack.github.io/favicon.ico">
 </head>
 <body>
-<b>SERIES</b>
+<h1>SERIES</h1>
 <br><b><a rel="external nofollow" target="_blank" href="https://free-to.github.io/series/sell">How To Sell Drugs Online (Fast) VOSTFR</a></b><br>
   <br>
 <b><a rel="external nofollow" target="_blank" href="free-to.github.io/series/mr_robot">Mr. Robot</a></b><br>
