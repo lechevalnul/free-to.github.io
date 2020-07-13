@@ -5,11 +5,11 @@
 <body>
 <h1>BIENVENUE SUR LE SITE DE FILMS ET DE SERIE CONSTRUIT PAR LA DARKED</h1>
  
-<h1><a rel="external nofollow" target="_blank" href="https://free-to.github.io/series/serie">SERIES</a></h1>
+<h1><a rel="external nofollow" target="_blank" href="https://free-to.github.io/series/serie">SERIES</a><h1>
 
 <h1><a rel="external nofollow" target="_blank" href=" https://free-to.github.io/films/base ">FILMS</h1><a>
 <br/>
-<h1>JEUX</h1>
+<h1>JEUX<h1>
   <b><div style="font-weight:bold;color:#ff0000">Tropico 6 Lobbyistico PC | Français</div></b>
 <b><a rel="external nofollow" target="_blank" href=" https://1fichier.com/?jg74vg6myot3h0omv0am&af=105612 ">Télécharger</a></b><br>
 <b><div style="font-weight:bold;color:#ff0000">Golf with your friends PC | Français
