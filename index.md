@@ -4,13 +4,8 @@
 </head>
 <body>
 <h1>BIENVENUE SUR LE SITE DE FILMS ET DE SERIE CONSTRUIT PAR LA DARKED</h1>
-  <h2>PENSEZ A PARTAGER CE SITE VIA CE LIEN https://bit.ly/free-0</h2>
-<b>SERIES</b>
-<br><b><a rel="external nofollow" target="_blank" href="https://free-to.github.io/series/sell">How To Sell Drugs Online (Fast) VOSTFR</a></b><br>
   <br>
-<b><a rel="external nofollow" target="_blank" href="free-to.github.io/series/mr_robot">Mr. Robot</a></b><br>
-<br>
-<b><a rel="external nofollow" target="_blank" href="https://free-to.github.io/series/not_okay">I Am Not Okay With This VF</a></b><br>
+<h1><a rel="external nofollow" target="_blank" href="https://free-to.github.io/series/serie">SERIES</a></h1><br>
 <h1>FILMS</h1>
 <b><div style="font-weight:bold;color:#ff0000">Les dents, pipi et au lit Qualité BDRIP | FRENCH</div></b>
 <b><a rel="external nofollow" target="_blank" href=" https://1fichier.com/?um6atkryw2slm5zexr1h&af=1798861 ">Télécharger<b><a><br>
