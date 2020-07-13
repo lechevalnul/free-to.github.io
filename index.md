@@ -9,7 +9,7 @@
 
 <h1><a rel="external nofollow" target="_blank" href=" https://free-to.github.io/films/base ">FILMS<h1><a><br>
 
-<h1>BD<h1>
+<h1>BD</h1>
 <b>Vous trouver pas votre film ou vous avez un probleme, contacter le DEV du site a cette adresse: lechevalnul@gmail.com<b>
 <b>Les jeux (PC seulement), animer, BD ect...Arrivee bientôt si vous avez des suggestion contacter nous toujours a la même boite mail :lechevalnul@gmail.com<b>
 <br>
