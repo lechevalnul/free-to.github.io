@@ -14,5 +14,3 @@
 
 <b>Nombre de visiteurs: </b>
 <img src="http://www.mon-compteur.fr/html_c01genv2-226337-1" border="0" />
-</body>
-</html>
