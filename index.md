@@ -4,6 +4,7 @@
 </head>
 <body>
 <h1>BIENVENUE SUR LE SITE DE FILMS ET DE SERIE CONSTRUIT PAR LA DARKED<h1>
+<h1>News:<h1><b>Le site reprend l'activiter avec 2 nouveau film ,2 jeux et la saison 2 de how to sell drugs<b>
 <b><a rel="external nofollow" target="_blank" href="https://free-to.github.io/series/serie">SERIES</a></b><br>
 <br/>
  
